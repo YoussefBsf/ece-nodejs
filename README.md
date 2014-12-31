@@ -7,7 +7,7 @@ this project is about creating a database using mongodb and linking it with node
 Installing this project is simple, run the following commands:
 
 ```console
-$ git clone https://github.com/YoussefBsf/ECE-Auth-Node
+$ git clone https://github.com/YoussefBsf/ece-nodejs
 $ cd ECE-Auth-Node
 $ npm install
 $ sudo mongod &  # this will allow you to start mongodb locally
