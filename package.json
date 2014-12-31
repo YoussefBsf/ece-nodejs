@@ -1,5 +1,5 @@
 {
-  "name": "UIC/ECE Authentication Program",
+  "name": "auth",
   "version": "0.0.0",
   "description": "Authentication using jade,bootstrap,Nodejs,Express,Mongodb",
   "main": "app.js",
